@@ -3,7 +3,7 @@ Rae's Perfomance Modpack là một modpack chạy trên Fabric giúp cải thi�
 
 Vậy thì tại sao lại là Fabric ?
   > Như đã nói ở trên, tôi chọn Fabric vì những lí do sau:
-  >   Fabric nhẹ hơn Forge
-  >   Fabric load nhanh hơn Forge
-  >   Fabric mang lại hiệu năng tốt hơn Forge
+    Fabric nhẹ hơn Forge
+    Fabric load nhanh hơn Forge
+    Fabric mang lại hiệu năng tốt hơn Forge
 
