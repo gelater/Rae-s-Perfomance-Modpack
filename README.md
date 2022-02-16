@@ -7,4 +7,12 @@ Vậy thì tại sao lại là Fabric ?
     🔸 Fabric nhẹ hơn Forge
     🔸 Fabric load nhanh hơn Forge
     🔸 Fabric mang lại hiệu năng tốt hơn Forge
+    
+**Các bước để cài modpack:**
+
+Bước 1 : Tải modpack tại [đây](https://bit.ly/raeperfomancemodpack)
+Bước 2 : Giải nén file ra 
+![This is an image](https://i.imgur.com/xiD6f4D.png)
+
+
 
